@@ -1600,7 +1600,7 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<i><u>🤖 Bot's Status</u></i>\n"
     text+=f"\n<b><i>🏓 Bot's Uptime :</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"""\n<b><i>🎸 Dev : ➤ ꧁★HACKER★꧂  <a href="https://telegra.ph/Av-Auto-Filter-Bot-05-26</a></i>\n"""
+    text+=f"""\n<b><i>🎸 Dev : ➤ ꧁★HACKER★꧂  <a href="https://t.me/shreevish</a></i>\n"""
     text+=f"\n<b><i>💥 Bot Funtion : :</i></b> <i>Auto Channel Link Uploader</i>\n"
     text+="""\n<b><i>⚡️ Contact :</i></b> <a href="https://telegra.ph/Av-Auto-Filter-Bot-05-26>Here!</a>"""
 
