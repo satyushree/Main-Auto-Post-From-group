@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel', url="https://t.me/All_Movie_Rockers"
+                                    'Developers', url="https://t.me/shreevish"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel', url="https://t.me/All_Movie_Rockers"
+                                    'Developers', url="https://t.me/shreevish"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel', url="https://t.me/All_Movie_Rockers"
+                                    'Developers', url="https://t.me/shreevish"
                                 )
                         ]
                     ]
@@ -87,8 +87,8 @@ async def start(bot, update):
             print(file_type)
         
         return
-
-   buttons = [[
+    
+    buttons = [[
         InlineKeyboardButton('My Dev 🧑‍🔬', url='https://t.me/shreevish'),
         InlineKeyboardButton('Know More 🧾', url ='https://telegra.ph/Av-Auto-Filter-Bot-05-26')
     ],[
