@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Channel', url="https://t.me/All_Movie_Rockers"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Channel', url="https://t.me/All_Movie_Rockers"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Channel', url="https://t.me/All_Movie_Rockers"
                                 )
                         ]
                     ]
@@ -88,11 +88,11 @@ async def start(bot, update):
         
         return
 
-    buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+   buttons = [[
+        InlineKeyboardButton('My Dev 🧑‍🔬', url='https://t.me/shreevish'),
+        InlineKeyboardButton('Know More 🧾', url ='https://telegra.ph/Av-Auto-Filter-Bot-05-26')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('➕ Add me to Your Group!', url='http://t.me/All_Movie_Rockers_BoT?startgroup=true')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
