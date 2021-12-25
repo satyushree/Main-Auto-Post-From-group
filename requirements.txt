@@ -8,3 +8,5 @@ git+git://github.com/pyrogram/pyrogram.git
 git+git://github.com/mongodb/mongo-python-driver.git
 git+git://github.com/mongodb/motor.git
 git+git://github.com/rthalley/dnspython.git
+git+git://github.com/psf/requests.git
+https://github.com/pyrogram/tgcrypto
