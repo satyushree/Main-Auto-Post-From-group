@@ -77,7 +77,7 @@ async def connect(bot: Bot, update):
         c_chat = await bot.get_chat(target)
         channel_id = c_chat.id
         channel_name = c_chat.title
-
+        
     except Exception as e:
         await update.reply_text("Encountered Some Issue..Please Check Logs..!!")
         raise e
